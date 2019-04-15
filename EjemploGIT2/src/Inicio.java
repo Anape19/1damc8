@@ -7,6 +7,7 @@ public class Inicio {
 		System.out.println("hola Egit2");
 		System.out.println("hola Egit3");
 		System.out.println("hola Egit4");
+		System.out.println("hola Egit5");
 	}
 
 }
